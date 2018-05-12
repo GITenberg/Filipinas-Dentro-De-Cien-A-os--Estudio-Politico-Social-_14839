@@ -1,0 +1,33 @@
+_repo: Filipinas-Dentro-De-Cien-A-os--Estudio-Politico-Social-_14839
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rizal, José
+    aliases:
+    - Rizal Mercado y Alonzo Realonda, José Protasio
+    - Rizal, Jose
+    birthdate: 1861
+    deathdate: 1896
+    gutenberg_agent_id: '2183'
+    url: http://www.gutenberg.org/2009/agents/2183
+    wikipedia:
+    - http://en.wikipedia.org/wiki/José_Rizal
+    - http://www.joserizal.ph/
+description: ''
+gutenberg_issued: '2005-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14839'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- Politics and government'
+- !lcsh 'Philippines -- Social conditions'
+- !lcc 'DS'
+title: Filipinas Dentro De Cien Años (Estudio Politico-Social)
+url: http://www.gutenberg.org/ebooks/14839
